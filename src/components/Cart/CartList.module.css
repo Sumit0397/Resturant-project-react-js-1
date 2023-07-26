@@ -1,0 +1,15 @@
+.list{
+    display: flex;
+    justify-content: space-between;
+    padding: 1rem;
+    border-bottom: 2px solid brown;
+}
+
+.list span{
+    display: block;
+}
+
+.list__data{
+    font-weight: bold;
+    font-size: 1.2rem;
+}
